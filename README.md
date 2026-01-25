@@ -35,6 +35,7 @@ I specialize in **frontend development**, working closely with product and backe
 - Built with **React + Tauri**
 - Role-based access control
 - Transaction & workflow management
+- Payment Gateway integration
 - Cross-platform (Windows & macOS)
 
 ---
@@ -45,6 +46,7 @@ I specialize in **frontend development**, working closely with product and backe
 - Built with **React Native**
 - Optimized for performance & smooth UX
 - Focused on task completion flows
+- Bank API integration for withdrawal
 
 ---
 
