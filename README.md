@@ -1,22 +1,24 @@
-# 👋 Hi, I’m Tio Novriadi Putra
+<div align="center">
 
-I’m a **Frontend Engineer** who builds **web, mobile, and desktop applications** with a strong focus on usability, performance, and clean architecture.
+# Hey, I'm Tio 👋
 
-I enjoy turning product ideas into reliable, scalable interfaces that users actually enjoy using.
+Frontend engineer. Probably adjusting the spacing.
 
----
+I build web, mobile, and desktop apps, and care a little too much about how a button feels.
 
-## 🚀 What I Do
+[GitHub](https://github.com/TioNovriadiPutra) · [Instagram](https://www.instagram.com/tio_novriadi/) · [Email](mailto:tionvriadi@gmail.com)
 
-- 🌐 Web Apps
-- 📱 Mobile Apps
-- 🖥️ Desktop Apps
+</div>
 
-I specialize in **frontend development**, working closely with product and backend teams to ship polished experiences.
+## A bit about me
 
----
+I'm Tio Novriadi Putra, a frontend engineer who enjoys turning product ideas into things people can actually use.
 
-## 🛠️ Main Stack
+Most of my time goes into React and TypeScript. I work with product and backend teams, think through user flows, and spend time on the details: loading states, small animations, and layouts that behave on smaller screens.
+
+I like playful interfaces and code that's easy to come back to. Future me deserves a decent developer experience too.
+
+## My toolbox
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
@@ -25,57 +27,41 @@ I specialize in **frontend development**, working closely with product and backe
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat&logo=adonisjs)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri)
 
----
+| Where it runs | What I reach for |
+| --- | --- |
+| In your browser | React, Next.js, TypeScript |
+| On your phone | React Native, Expo |
+| On your desktop | React, Tauri |
+| Behind the scenes | AdonisJS |
 
-## 🧠 Current Projects
+## Currently building: Alongio 🐣
 
-### 📸 PADDA Studio
-**ERP desktop application for photo studios**
+A little companion for everyday life, whether you're doing your own thing or sharing a space with your partner.
 
-- Built with **React + Tauri**
-- Role-based access control
-- Transaction & workflow management
-- Payment Gateway integration
-- Cross-platform (Windows & macOS)
+Forgot to buy milk? Trying to stick to a routine? Want to remind your person about something? That's the kind of everyday stuff I'm designing Alongio around.
 
----
+Pastel colors and a pixel mascot set the mood. Tiny Planner is where I'm currently bringing the reminder and routine flows to life.
 
-### 📱 Provid Mobile App
-**Task-based mobile app for ads & rewards**
+**Built with:** React Native, Expo, and TypeScript.
 
-- Built with **React Native**
-- Optimized for performance & smooth UX
-- Focused on task completion flows
-- Bank API integration for withdrawal
+Still a work in progress: the app is a frontend prototype with local sample data. Backend integration, partner sync, saved reminders, and notification delivery are planned.
 
----
+[Take a look at Alongio →](https://github.com/TioNovriadiPutra/alongio-app)
 
-## 📊 GitHub Stats
+## Things I'll happily spend extra time on
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TioNovriadiPutra&show_icons=true&hide_title=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioNovriadiPutra&layout=compact" />
-</p>
+- Spacing that feels consistent across screens.
+- Buttons and inputs that make their state obvious.
+- Motion that helps you follow what's happening.
+- Keeping interactions smooth across devices.
+- Components that won't need a rewrite for the next feature.
 
----
+Getting the UI right includes making the code maintainable. I prefer architecture that can grow with the product and still be straightforward to work in today.
 
-## 🧩 What I Care About
+## Let's make something people enjoy using
 
-- Clean, maintainable frontend code
-- Thoughtful UI & animations
-- Performance across devices
-- Building things that scale without complexity
+I'm open to freelance projects, collaborations, and interesting product work.
 
----
+Have an idea, a frontend that needs some attention, or a project you'd like to build together? Drop me a message.
 
-## 📫 Let’s Work Together
-
-- GitHub: https://github.com/TioNovriadiPutra
-- Email: tionvriadi@gmail.com
-
-I’m open to **freelance projects**, collaborations, and interesting product work.
-
----
-
-> Build interfaces that feel good to use.
+[tionvriadi@gmail.com](mailto:tionvriadi@gmail.com) · [@tio_novriadi](https://www.instagram.com/tio_novriadi/)
